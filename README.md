@@ -1,4 +1,4 @@
-Judul Proyek: Analisis Risiko Kredit untuk Perusahaan Pembiayaan
+#Analisis Risiko Kredit untuk Perusahaan Pembiayaan#
 Latar Belakang
 Dalam industri keuangan, khususnya perusahaan pembiayaan, risiko kredit merupakan salah satu tantangan utama. Risiko ini timbul dari kemungkinan nasabah gagal memenuhi kewajiban pembayarannya, yang dapat berdampak signifikan pada kesehatan keuangan perusahaan. Oleh karena itu, analisis risiko kredit menjadi sangat penting untuk dilakukan.
 
